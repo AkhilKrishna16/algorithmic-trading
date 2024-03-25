@@ -1,0 +1,9 @@
+Turtle Trading is the idea that everything relies on the trends in the market. Turtle trading persists over time and that you can capture profits
+using such strategy. 
+
+It is the simplest trading strategy but one of the most fundamental. 
+
+Moving Averages
+
+- We use Moving Averages to calculate the maximum or minimum within a specific trend of the entire market. For instance, we can utilize maximum 
+values to know when the current trend is going to drop or minimum values to know when it is going to peak. 
