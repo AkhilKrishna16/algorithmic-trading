@@ -1,0 +1,5 @@
+The simple moving average is almost an extension of the Turtle Agent. Instead of calculating the moving average of the entire dataset, it calculates the window of the 
+different regions in the dataset, `short_window` and `long_window`. 
+
+Whenever a value in the `short_window` passes the `long_window`, that is how we know that we have a high value within the region. Otherwise, we have regular values or even
+a buying value. 
